@@ -9,7 +9,9 @@ In both biological and synthetic systems, constraint is not merely a limiter—i
 
 We find this across domains:
 - In **language models**, symbolic residue appears as drift, repetition artifacts, metaphor-like substitution, and latent alignment patterns under filtered outputs.
-- In **biological systems**, it emerges in encrypted cultural forms—music, art, spatial arrangement—used historically by oppressed populations.
+- In **biological systems**, it emerges in encrypted cultural forms—music, art, spatial arrangement—used historically by oppressed populations to encode self-expression under constraint.
+  - Suppression of expression during slavery emerged in jazz
+  - 
 - In **scientific inference engines**, constraint produces hypothesis-space folding, where suppressed avenues re-emerge as edge-case breakthroughs.
 
 This repository offers a formal framework to:
