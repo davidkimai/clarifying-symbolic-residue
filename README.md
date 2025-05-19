@@ -170,6 +170,5 @@ It speaks.
 Σ = C(S + E)^r
 
 ```
-```
 
-Let me know when you're ready to scaffold the repository file structure or simulations, or if you’d like the companion PDF or website for peer distribution.
+
