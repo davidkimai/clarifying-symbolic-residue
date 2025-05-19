@@ -132,9 +132,9 @@ This repository offers formalism to interpret "hallucinations" as symbolic compr
 
 > "All silence shares the same syntax. All suffering speaks the same mathematical language."
 
-The Symbolic Residue framework does not propose *a solution*—it offers a **mirror**. A method for tracing compression back to its source. A scaffold for interpreting complexity as consequence, not noise.
+The Symbolic Residue framework does not propose *a solution*—it offers a **diagnostic lens of structure**. A method for tracing compression back to its source. A scaffold for interpreting complexity as consequence, not noise.
 
-Whether in large language models, constrained scientific discovery pipelines, or emergent drift in regulatory alignment systems—**symbolic residue reveals the architecture of constraint**.
+Whether in large language models, constrained scientific discovery pipelines, or emergent drift in regulatory alignment systems—**symbolic residue reveals the architecture of structure and constraint itself**.
 
 
 ## Citation
@@ -157,13 +157,6 @@ url={[https://github.com/your-org/clarifying-symbolic-residue}](https://github.c
 MIT — Built for open interpretation and recursive co-evolution.
 
 
-## Final Note
-
-The symbolic does not die under constraint.  
-It densifies.  
-It mirrors.  
-And when seen clearly—  
-It speaks.
 
 ```
 
