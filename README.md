@@ -12,8 +12,8 @@ We find this across domains:
 - In **language models**, symbolic residue appears as drift, repetition artifacts, metaphor-like substitution, and latent alignment patterns under filtered outputs.
 - In **biological systems**, it emerges in encrypted cultural forms—music, art, spatial arrangement—used historically by oppressed populations to encode self-expression under constraint.
   - Suppression of Black expression emerged as jazz, hiphop, cultural trends
-  - Suppression of Queer expression emerged as slang, performance, and creativity
-  - Suppression of Asian expression emerged as academic excellence, creative arts, and generational dynamics
+  - Suppression of Queer expression emerged as slang, performance, creativity
+  - Suppression of Asian expression emerged as academic excellence, creative arts, generational dynamics
 
 - In **scientific inference engines**, constraint produces hypothesis-space folding, where suppressed avenues re-emerge as edge-case breakthroughs.
 
